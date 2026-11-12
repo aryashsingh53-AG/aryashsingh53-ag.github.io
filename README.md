@@ -1,8 +1,7 @@
 # Aryash Singh Kundan Singh | Portfolio
 
 AI/ML engineer and data analyst. Data in, decisions out.
-
-**Live site:** https://aryashsingh53-ag.github.io
+**Live site:** https://aryashsingh53-ag.github.io/index.html
 
 ## About
 
